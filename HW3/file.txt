@@ -1,0 +1,2 @@
+exists y.  \ X . sleep(X) and cat(y)(y)
+(\  y. sleep(y)) (W)
